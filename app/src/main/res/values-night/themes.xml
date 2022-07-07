@@ -1,0 +1,17 @@
+<resources>
+
+    <style name="Theme.ClockProject" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/vibrant</item>
+        <item name="colorPrimaryVariant">@color/vibrant_light</item>
+        <item name="colorOnPrimary">@color/muted</item>
+        <item name="colorSecondary">@color/dominant</item>
+        <!--        <item name="colorSecondaryVariant">@color/purple_900</item>-->
+<!--        <item name="colorOnSecondary">@color/black</item>-->
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/white</item>
+<!--        <item name="android:windowLightStatusBar">true</item>-->
+
+    </style>
+
+</resources>
